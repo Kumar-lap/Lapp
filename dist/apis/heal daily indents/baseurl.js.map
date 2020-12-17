@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/apis/heal daily indents/baseurl.js"],"names":["module","exports","api","baseUrl"],"mappings":";;AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,GAAG,EAAE,kBADU;AAEfC,EAAAA,OAAO,EAAE;AAFM,CAAjB","sourcesContent":["module.exports = {\n  api: 'HealDailyIndents',\n  baseUrl: '/healdailyindents',\n};\n"],"file":"baseurl.js"}

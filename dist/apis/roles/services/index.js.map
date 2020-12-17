@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/apis/roles/services/index.js"],"names":["services","getRoles"],"mappings":";;;;;;;AAAA;;;;AAEA,MAAMA,QAAQ,GAAG;AACfC,EAAAA,QAAQ,EAARA;AADe,CAAjB;eAIeD,Q","sourcesContent":["import getRoles from './get_roles';\n\nconst services = {\n  getRoles,\n};\n\nexport default services;\n"],"file":"index.js"}

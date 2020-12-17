@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/apis/heal purchase indents/baseurl.js"],"names":["module","exports","api","baseUrl"],"mappings":";;AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,GAAG,EAAE,qBADU;AAEfC,EAAAA,OAAO,EAAE;AAFM,CAAjB","sourcesContent":["module.exports = {\n  api: 'HealPurchaseIndents',\n  baseUrl: '/healpurchaseindents',\n};\n"],"file":"baseurl.js"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/apis/breakages/baseurl.js"],"names":["module","exports","api","baseUrl"],"mappings":";;AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,GAAG,EAAE,WADU;AAEfC,EAAAA,OAAO,EAAE;AAFM,CAAjB","sourcesContent":["module.exports = {\n  api: 'Breakages',\n  baseUrl: '/breakages',\n};\n"],"file":"baseurl.js"}

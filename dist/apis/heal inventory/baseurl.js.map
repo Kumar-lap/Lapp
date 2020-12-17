@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/apis/heal inventory/baseurl.js"],"names":["module","exports","api","baseUrl"],"mappings":";;AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,GAAG,EAAE,eADU;AAEfC,EAAAA,OAAO,EAAE;AAFM,CAAjB","sourcesContent":["module.exports = {\n  api: 'HealInventory',\n  baseUrl: '/healinventory',\n};\n"],"file":"baseurl.js"}

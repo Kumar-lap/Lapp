@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/apis/production line/baseurl.js"],"names":["module","exports","api","baseUrl"],"mappings":";;AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,GAAG,EAAE,gBADU;AAEfC,EAAAA,OAAO,EAAE;AAFM,CAAjB","sourcesContent":["module.exports = {\n  api: 'ProductionLine',\n  baseUrl: '/productionline',\n};\n"],"file":"baseurl.js"}

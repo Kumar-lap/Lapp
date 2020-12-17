@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/apis/sample/baseurl.js"],"names":["module","exports","api","baseUrl"],"mappings":";;AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,GAAG,EAAE,SADU;AAEfC,EAAAA,OAAO,EAAE;AAFM,CAAjB","sourcesContent":["module.exports = {\n  api: 'apiName',\n  baseUrl: '/fileName',\n};\n"],"file":"baseurl.js"}
